@@ -1,5 +1,4 @@
 import re
-import os
 import numpy as np
 import copy
 from rdkit import Chem
